@@ -26,7 +26,7 @@ function Header(props) {
 
       {!props.showQuiz ? 
         <svg xmlns="http://www.w3.org/2000/svg" className="header__quiz-btn quiz-btn quiz-btn--problems">
-          <text x="0" y="99%" className="quiz-btn__text quiz-btn__text--problems">Проблемы экологии</text>
+          <text x="0" y="99%" className="quiz-btn__text quiz-btn__text--problems">Что такое Рококо</text>
         </svg>
         :
         <svg xmlns="http://www.w3.org/2000/svg" className="header__quiz-btn quiz-btn quiz-btn--quiz">

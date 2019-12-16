@@ -63,6 +63,21 @@ header {
   background-color: #e6d2da;
   border-radius: 1.3vw;
   filter: drop-shadow(0px 0px 3px #fa31fd);
+  figure {
+    margin-top: 3vw;
+    margin-bottom: 3vw;
+    display: block;
+    width: 36vw;
+    margin-right: auto;
+    figcaption {
+      margin-top: 1vw;
+      font-style: italic;
+    }
+    img {
+      width: 100%;
+      height: auto;
+    }
+  }
   p {
     font-size: 2vw;
     &:first-child {

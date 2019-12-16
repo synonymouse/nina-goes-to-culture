@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/nina-goes-to-web/static/css/main.d9d64b85.chunk.css",
+    "main.js": "/nina-goes-to-web/static/js/main.21b3951a.chunk.js",
+    "main.js.map": "/nina-goes-to-web/static/js/main.21b3951a.chunk.js.map",
+    "runtime-main.js": "/nina-goes-to-web/static/js/runtime-main.06b4cdd5.js",
+    "runtime-main.js.map": "/nina-goes-to-web/static/js/runtime-main.06b4cdd5.js.map",
+    "static/js/2.81616c33.chunk.js": "/nina-goes-to-web/static/js/2.81616c33.chunk.js",
+    "static/js/2.81616c33.chunk.js.map": "/nina-goes-to-web/static/js/2.81616c33.chunk.js.map",
+    "index.html": "/nina-goes-to-web/index.html",
+    "precache-manifest.f3042c5d1512117d1ccae7bd2676bedc.js": "/nina-goes-to-web/precache-manifest.f3042c5d1512117d1ccae7bd2676bedc.js",
+    "service-worker.js": "/nina-goes-to-web/service-worker.js",
+    "static/css/main.d9d64b85.chunk.css.map": "/nina-goes-to-web/static/css/main.d9d64b85.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.06b4cdd5.js",
+    "static/js/2.81616c33.chunk.js",
+    "static/css/main.d9d64b85.chunk.css",
+    "static/js/main.21b3951a.chunk.js"
+  ]
+}

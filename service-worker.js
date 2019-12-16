@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/nina-goes-to-culture/precache-manifest.c42f103b27794fc16fa4b230e37d7291.js"
+  "/nina-goes-to-culture/precache-manifest.84093ad406854d9dd5555c73dd5fbaeb.js"
 );
 
 self.addEventListener('message', (event) => {
